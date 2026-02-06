@@ -6,3 +6,6 @@ The best ways are:
 -Sleep
 -Work
 -Rest
+-Repeat
+
+Thank You!!!
