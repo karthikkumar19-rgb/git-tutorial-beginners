@@ -5,7 +5,6 @@ The best ways are:
 -Eat
 -Sleep
 -Work
--Rest
 -Repeat
 
 Thank You!!!
